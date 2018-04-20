@@ -246,7 +246,7 @@ window.onload = function() {
     $("#startQuiz").on("click", function () {
         questiondisplay();
         var display; 
-        var timeLeft = 15;
+        var timeLeft = 45;
         var timer = setInterval( function(){
             display = document.getElementById("display").value = "00" + ":" + timeLeft--;
             if (timeLeft <10){

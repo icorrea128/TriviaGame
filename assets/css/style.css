@@ -1,0 +1,26 @@
+#middle {
+    width:450px;
+    height:500px;
+}
+
+body {
+    background-image:url("/Users/Izzy/Desktop/week_6/TriviaGame/assets/images/latin-america.jpg")
+}
+
+#panel {
+    padding:20px;
+}
+
+.jumbotron {
+    background-color:yellow; 
+}
+
+#Timer {
+    background-color:yellow; 
+}
+
+#panel {
+    background-color:yellow;
+    bottom:-200px;
+}
+
